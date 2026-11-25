@@ -230,10 +230,13 @@ Main Success Scenario:
 ### Entity 2
 (Add additional entities as needed.)
 ---
-## API Usage
+### API Usage
 **API Name:** Spotify Web API
+
 **Documentation:** [ https://developer.spotify.com/documentation/web-api ]
+
 **How it is used in the program:** The Spotify Web API will be used to retrieve music information, access user playlists and liked songs, and export playlists to Spotify.
+
 ---
 ## Design Diagrams
 ### UML Class Diagram
