@@ -12,11 +12,14 @@ This app allows users to search for songs, and discover music simillar to their 
 Lastly, users will be able to export playlists they create or discover directly to their Spotify accounts, making it easier to access and listen to their music."
 
 ---
-## User Stories
-### As a user, I want to be able to search for songs so I can discover new music.
-### As a user, I want to be able to find other songs similar to those I like so I can expand my music taste.
-### As a user, I want to be able to get a breakdown of any collections of songs (playlist or liked songs) by genre or by artist so I can analyze it.
-### As a user, I want to be able to export playlists to Spotify so I can listen to them.
+### User Stories
+- As a user, I want to be able to search for songs so I can discover new music.
+
+- As a user, I want to be able to find other songs similar to those I like so I can expand my music taste.
+
+- As a user, I want to be able to get a breakdown of any collections of songs (playlist or liked songs) by genre or by artist so I can analyze it. 
+
+- As a user, I want to be able to export playlists to Spotify so I can listen to them.
 
 ---
 ## Use Cases
@@ -220,9 +223,9 @@ Main Success Scenario:
 ## Minimal Viable Product (MVP)
 | Team Member | MVP Use Case |
 |-------------|--------------|
-| Name | Use Case |
-| Name | Use Case |
-| Name | Use Case |
+| Mandon Kahn | Use Case 1 |
+| Arjun Alwe | Use Case |
+| Dayyan Karedia | Use Case |
 
 ---
 ## Entities
