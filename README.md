@@ -127,7 +127,7 @@ Lastly, users will be able to export playlists they create or discover directly 
 - 4a. No matching songs are found. The application informs the user and suggests trying another query.
 - 4b. The Spotify API request fails. The application displays an error and allows the user to retry.
 
-###Generate Personalized Playlist
+### Generate Personalized Playlist
 Primary Actor: User
 
 Preconditions:
@@ -224,9 +224,12 @@ Main Success Scenario:
 | Team Member | MVP Use Case |
 |-------------|--------------|
 | Mandon Kahn | Use Case 1 |
-| Arjun Alwe | Use Case |
-| Dayyan Karedia | Use Case |
-
+| Mandon Kahn | Use Case 2|
+| Dayyan Karedia | Use Case 3|
+| Mandon Kahn | Use Case 4|
+| Arjun Alwe | Use Case 5|
+| | Use Case 6|
+| Dayyan Karedia | Use Case 7|
 ---
 ## Entities
 ### Entity 1
