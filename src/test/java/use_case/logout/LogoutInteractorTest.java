@@ -22,11 +22,10 @@ class LogoutInteractorTest {
         // This creates a successPresenter that tests whether the test case is as we expect.
         LogoutOutputBoundary successPresenter = new LogoutOutputBoundary() {
             @Override
-            public void prepareSuccessView(LogoutOutputData user) {
-                assertEquals("Paul", user.getUsername());
+            public void prepareSuccessView() {
                 assertNull(userRepository.getCurrentUsername());
             }
-};
+        };
 
         LogoutInputBoundary interactor = new LogoutInteractor(userRepository, successPresenter);
         interactor.execute();
